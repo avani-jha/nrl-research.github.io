@@ -8,12 +8,26 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "NRL Research Group"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Naga Rajiv Lakkaniga, PhD"
+description              : &description "The highly interdisciplinary work in our lab aims to identify novel chemotypes with potential biological application in various cancers and infectious diseases. The ongoing projects are focused on discovering small molecule agents targeting triple negative breast cancer, lung cancer and influenza viruses.
+
+ 
+
+For prospective students:
+
+We look for highly motivated candidates to join our group for pursuing PhD in the field of drug discovery. Must be interested in interdisciplinary research.
+
+Current requirement is for 1 student with hands-on experience in heterocyclic synthesis. Interested students with external fellowship like CSIR NET may directly email Dr. Lakkaniga.
+
+There are no vacancies for institute funded JRFs.
+
+We do not take winter interns. Please don't email asking for winter internship.
+
+Summer interns are welcome. Please look into Dean (R&D), IIT (ISM) Dhanbad website for details on how to apply."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://nrl-research.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,20 +42,20 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "IIT (ISM) Dhanbad"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nagarajiv@iitism.ac.in" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=i_z0Tu4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8370-2224"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Lakkaniga+NR&cauthor_id=38784451"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
